@@ -1,2 +1,2 @@
-# ju_dev
-website personal
+# website-julex
+web
